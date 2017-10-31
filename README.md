@@ -12,7 +12,9 @@ Personal vscode settings
   "files.trimTrailingWhitespace": true,
   "search.exclude": {
     "**/coverage*": true,
-    "*.nyc_output": true
+    "*.nyc_output": true,
+    "**/dist*": true,
+    "**/lib*": true
   },
   "editor.formatOnSave": true,
   "editor.wordWrap": "on",
