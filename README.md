@@ -15,6 +15,7 @@ Personal vscode settings
     "*.nyc_output": true
   },
   "editor.formatOnSave": true,
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "javascript.validate.enable": false
 }
 ```
